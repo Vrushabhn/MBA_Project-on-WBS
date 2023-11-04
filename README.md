@@ -1,2 +1,2 @@
 # MBA_Project-on-WBS
-TO STUDY THE IMPACT OF WORK BREAKDOWN STRUCTURE IN CONSTRUCTION WITH REFERENCE TO TECHNOLOGY
+Welcome to the "Study of Work Breakdown Structure (WBS) Impact in Construction with Technology" repository! This project aims to investigate and analyze the role of Work Breakdown Structure, particularly in the context of technological advancements and innovations. WBS is a fundamental project management tool, and we are exploring its implications when integrated with cutting-edge technology.
